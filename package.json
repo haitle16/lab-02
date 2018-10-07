@@ -1,0 +1,22 @@
+{
+  "name": "lab-02",
+  "version": "1.0.0",
+  "description": "![cf](https://i.imgur.com/7v5ASc8.png) 02: Tools and Context ============================================================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haitle16/lab-02.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haitle16/lab-02/issues"
+  },
+  "homepage": "https://github.com/haitle16/lab-02#readme",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
