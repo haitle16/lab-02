@@ -1,0 +1,26 @@
+{
+  "name": "lab-02",
+  "version": "1.0.0",
+  "description": "![cf](https://i.imgur.com/7v5ASc8.png) 02: Tools and Context ============================================================",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --verbose --coverage",
+    "lint": "eslint **/*.js",
+    "test_watch": "jest --watchAll --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haitle16/lab-02.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haitle16/lab-02/issues"
+  },
+  "homepage": "https://github.com/haitle16/lab-02#readme",
+  "dependencies": {
+    "eslint": "^5.6.1",
+    "jest": "^23.6.0"
+  }
+}
