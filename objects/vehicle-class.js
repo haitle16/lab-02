@@ -14,17 +14,17 @@ class Vehicle{
 }
 class Car extends Vehicle {
   constructor(name) {
-    super();
-    this.name = name;
-    super.wheels = 4;
+    super(name , 4);
+    // this.name = name;
+    // super.wheels = 4;
   }
 }
 
 class Motorcycle extends Vehicle{
   constructor(name) {
-    super();
-    this.name = name;
-    super.wheels = 2;
+    super(name, 2);
+    // this.name = name;
+    // super.wheels = 2;
   }
   wheelie(){
     return 'Whee!';
